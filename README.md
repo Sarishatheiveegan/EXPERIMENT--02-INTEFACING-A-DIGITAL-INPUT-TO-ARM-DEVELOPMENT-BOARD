@@ -57,8 +57,8 @@ The full form of an ARM is an advanced reduced instruction set computer (RISC) m
 ## STM 32 CUBE PROGRAM :
 
 ```
-Name: A.LAHARI
-Reg No: 212223230111
+Name: MARINO SARISHA T
+Reg No: 212223240084
 
 ```
 ```
