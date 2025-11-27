@@ -57,8 +57,8 @@ The full form of an ARM is an advanced reduced instruction set computer (RISC) m
 ## STM 32 CUBE PROGRAM :
 
 ```
-Name: MARINO SARISHA T
-Reg No: 212223240084
+Name: A.LAHARI
+Reg No: 212223230111
 
 ```
 ```
@@ -174,13 +174,13 @@ void assert_failed(uint8_t *file, uint32_t line)
 ## layout of the circuit 
 ## LED OFF
 
-<img width="484" height="774" alt="image" src="https://github.com/user-attachments/assets/29a27b1c-7a3a-4cc7-b9f5-d3a3ad716f52" />
-
+<img width="1410" height="617" alt="{6D94EC5D-1103-4B45-8671-E4831C19EBE2}" src="https://github.com/user-attachments/assets/8745ce54-4104-4c9f-add2-d5d2ca8c7fed" />
 
 
 ## LED ON
 
-<img width="503" height="710" alt="image" src="https://github.com/user-attachments/assets/31447d0a-7875-459d-8ace-bf7304aa1562" />
+<img width="1416" height="631" alt="{4D7F917F-A06C-419D-9F84-1D7927AFF1F3}" src="https://github.com/user-attachments/assets/895e6f6f-1168-483c-ac82-fe49bb24df11" />
+
 
 
 ## Result :
